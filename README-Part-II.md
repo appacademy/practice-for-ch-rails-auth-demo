@@ -1,10 +1,9 @@
-# Authentication II: Creating Sessions
+# Authentication II: Creating a Session
 
 The Auth Demo project shows you how to set up basic authentication for your
 Rails apps. The previous reading, Part I, covers the creation of users. This
-reading, Part II, covers the creation of a session. Feel free to code along. You
-can also download the full solution for this demo at the `Download Project`
-button below.
+reading, Part II, covers the creation of a session. Feel free to code along. To
+download the full solution for this demo, see Part I.
 
 Here is a visualization of the login process.
 ![Login](https://assets.aaonline.io/fullstack/rails/assets/login_diagram.png)
